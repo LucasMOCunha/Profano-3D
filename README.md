@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.comLucasMOCunha/Profano-3D/main/gatinhu.png" alt="Neon character" width="200"/>
-
 # 👋 Olá, eu sou Lucas M. Cunha
 
 🌍 Artista Visual e Desenvolvedor em formação  
@@ -65,7 +63,7 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasMOCunha/main/Jynx.png" alt="Jynx character" width="200"/>
+<img src="https://raw.githubusercontent.com/LucasMOCunha/main/Jynx.png" alt="Jynx" width="200"/>
 <br/>
 <strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
 
