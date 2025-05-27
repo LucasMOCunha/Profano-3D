@@ -59,11 +59,11 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 ---
 
-## 🧬 Personagens do meu universo
+## 🧬 Alguns Personagens do meu universo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasMOCunha/main/Jynx.png" alt="Jynx" width="200"/>
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Jynx.jpeg" alt="Neon character" width="200"/>
 <br/>
 <strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
 
