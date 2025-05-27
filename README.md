@@ -8,9 +8,9 @@ Aqui você encontrará projetos experimentais que combinam:
 
 🎼 Composições algorítmicas (em fase inicial de estudo) com Sonic Pi e JavaScript
 
-🎧 Explorações audiovisuais interativas com frameworks como p5.js, Hydra e Tone.js
+🎧 Explorações audiovisuais interativas com frameworks como p5.js, e outras ainda em teste.
 
-🌀 Artes visuais em 3D usando ferramentas como Blender, com foco em modelagem, texturização e narrativa visual
+🌀 Artes Visuais em 3D usando ferramentas como Blender, IA, com foco em modelagem, texturização e narrativa visual
 
 🎛️ Estudos de live coding e visualizações generativas
 
@@ -19,7 +19,7 @@ Este portfólio é uma coleção viva do meu processo criativo e de aprendizado,
 🧰 Tecnologias e Ferramentas
 Linguagens: JavaScript, Python, Ruby (Sonic Pi)
 
-Bibliotecas & Frameworks: p5.js, Three.js, Tone.js, Hydra
+Bibliotecas & Frameworks: p5.js
 
 Softwares: Blender, Figma, GIMP, Audacity.
 
