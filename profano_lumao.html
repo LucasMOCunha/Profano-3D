@@ -1,0 +1,266 @@
+<<!DOCTYPE html>
+  <html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <center>
+      <title>Lucas M Cunha | Portfólio</title>
+    </center>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- model-viewer para .glb -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+    <!-- AOS CSS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Fonte OXTA -->
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+      :root {
+        --bg: #0a0a0a;
+        --text: #e0e0e0;
+      }
+
+      [data-theme="light"] {
+        --bg: #ffffff;
+        --text: #111;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: 'Oxanium', sans-serif;
+        scroll-behavior: smooth;
+      }
+
+      header {
+        background: radial-gradient(circle, #300060, #0a0a0a);
+        padding: 3rem 0;
+        text-align: center;
+        border-bottom: 4px double #ff00cc;
+        box-shadow: 0 0 15px #ff00cc;
+      }
+
+      .foto-punk {
+        width: 150px;
+        height: 150px;
+        border-bottom-left-radius: 50%;
+        border-bottom-right-radius: 50%;
+        border-top-left-radius: 50%;
+        object-fit: cover;
+        border: 3px dashed #ff00cc;
+        box-shadow: 0 0 10px #ff00cc, 0 0 20px rgba(255, 0, 204, 0.5);
+        box-shadow: -8px 8px 0px #00ffff, -12px 12px 20px rgba(0, 255, 255, 0.4);
+        transform: rotate(-8deg);
+        transition: transform 0.3s ease;
+      }
+
+      .foto-punk:hover {
+        transform: rotate(0deg) scale(1.20);
+      }
+
+      .vertical-divider {
+        border-left: 1px solid rgba(255, 255, 255, 0.1);
+        height: 100%;
+      }
+
+      model-viewer {
+        width: 100%;
+        min-height: 300px;
+        aspect-ratio: 16/9;
+        border: 2px solid #00ffff;
+        border-radius: 10px;
+        background-color: #0f0026;
+        box-shadow: 0 0 20px #00ffff66;
+      }
+
+      .badge-stack {
+        background-color: #440066;
+        color: #fff;
+        margin: 0.2rem;
+      }
+
+      model-viewer {
+        max-width: 200px;
+        margin-left: auto;
+      }
+
+
+      .mapa-localizacao iframe {
+        width: 100%;
+        height: 400px;
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 0 12px rgba(0, 255, 255, 0.3);
+        margin-top: 1rem;
+      }
+
+      @media (max-width: 768px) {
+        .mapa-localizacao iframe {
+          height: 300px;
+        }
+      }
+    </style>
+  </head>
+
+  <body data-theme="dark">
+    <header>
+      <div class="container d-flex flex-wrap justify-content-between align-items-center">
+        <!-- ESQUERDA: Avatar e descrição -->
+        <div class="d-flex align-items-center mb-3 mb-md-0">
+          <img src="luscas.jpg" alt="Foto de Lucas Matheus" class="foto-punk me-3">
+          <div>
+            <h1 class="text-punk-nome">Lucas M Cunha</h1>
+            <p class="text-punk-sub">Meu trabalho conecta estética cyberpunk à crítica social e acessibilidade digital.
+            </p>
+          </div>
+        </div>
+
+        <div class="d-flex align-items-center">
+          <!-- Modelo 3D -->
+          <model-viewer src="cometin-pet.glb" alt="Mascote 3D" auto-rotate camera-controls ar disable-zoom
+            style="width: 140px; height: 140px; background: transparent;">
+          </model-viewer>
+
+          <!-- Contatos -->
+          <dl class="punk-contato ms-3 text-end">
+            <dt>Email:</dt>
+            <dd><a href="mailto:sempreprofano@gmail.com">sempreprofano@gmail.com</a></dd>
+            <dt>Celular:</dt>
+            <dd><a href="tel:+5581997329749">(81) 99732-9749</a></dd>
+            <dt>LinkedIn:</dt>
+            <dd><a href="https://www.linkedin.com/in/lucas-m-cunha-9063a0322/" target="_blank">Perfil LinkedIn</a></dd>
+          </dl>
+        </div>
+      </div>
+    </header>
+
+
+    </header>
+
+    <div class="container py-5">
+      <section id="sobre" class="mb-5" data-aos="fade-up">
+        <h2 class="section-title">Curiosidade</h2>
+        <p>Sou artista visual e estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento
+          front-end. Tenho explorado criações interativas que combinam código, imagem e som — incluindo composições
+          algorítmicas. Minha vivência é atravessada por uma perspectiva periférica e dissidente, e é a partir dela que
+          me relaciono com a arte: como ferramenta de expressão, ruptura e conexão. Consumo arte todos os dias, e
+          produzo quando posso subverter.</p>
+      </section>
+
+      <section class="mb-5" data-aos="fade-up">
+        <h2 class="section-title">Stack de Tecnologias</h2>
+        <span class="badge badge-stack">JavaScript</span>
+        <span class="badge badge-stack">HTML</span>
+        <span class="badge badge-stack">Python</span>
+        <span class="badge badge-stack">Sonic Pi</span>
+        <span class="badge badge-stack">Figma</span>
+        <span class="badge badge-stack">Blender</span>
+      </section>
+
+      <section id="modelos" class="mb-5" data-aos="zoom-in">
+        <h2 class="section-title">Criações Visuais</h2>
+        <div class="row g-4">
+          <div class="col-md-6">
+            <button class="btn btn-outline-info w-100" onclick="openModal('gekmen-3d.glb')">Gekmen</button>
+          </div>
+          <div class="col-md-6">
+            <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')">Jynx</button>
+          </div>
+          <div class="col-md-6">
+            <button class="btn btn-outline-info w-100" onclick="openModal('Neon-X.glb')">Neon-X (PET)</button>
+          </div>
+          <div class="col-md-6">
+            <button class="btn btn-outline-info w-100" onclick="openModal('nave-bb.glb')">Nave Principal</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="sons" class="mb-5" data-aos="fade-right">
+        <h2 class="section-title">Criações Sonoras</h2>
+        <button class="btn btn-outline-info mb-2" onclick="playAudio('neiff_darkwave.wav')">▶ Faixa 1</button>
+        <button class="btn btn-outline-info mb-2" onclick="playAudio('audios/faixa2.wav')">▶ Faixa 2</button>
+        <audio id="audioPlayer" controls class="w-100 mt-3">
+          <source src="" type="audio/wav">
+          Seu navegador não suporta o player de áudio.
+        </audio>
+      </section>
+
+      <section class="mb-5" data-aos="fade-left">
+        <h2 class="section-title">Projetos de Desenvolvimento</h2>
+        <ul>
+          <li><a href="https://www.figma.com/proto/NgpUkeHwZd8hFcSp9ZHHfj/Prot%C3%B3tipo-%7C-VivaVida"
+              target="_blank">💠 Viva Vida - Combate à solidão</a></li>
+          <li><a href="https://startechdev.vercel.app/" target="_blank">🚀 Star Tech - Gamificação</a></li>
+        </ul>
+      </section>
+    </div>
+
+ <!-- Modal 3D Responsivo e Harmônico -->
+<div class="modal fade" id="glbModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered">
+    <div class="modal-content bg-dark">
+      <div class="modal-header border-0">
+        <h5 class="modal-title text-white">Visualizador 3D</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body d-flex justify-content-center align-items-center" style="padding: 0;">
+        <div style="width: 150%; max-width: 200px; aspect-ratio: 16 / 9;">
+          <model-viewer
+            id="modalModelViewer"
+            src=""
+            auto-rotate
+            camera-controls
+            ar
+            style="width: 100%; height: 100%; border-radius: 12px; background-color: #0f0026;">
+          </model-viewer>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container py-5 mapa-localizacao" data-aos="fade-up">
+      <section>
+        <h2 class="section-title">Minha Localização</h2>
+        <iframe src="https://www.google.com/maps?q=Rua+Walfrido+de+Moraes,+Janga,+Paulista+-+PE&output=embed"
+          allowfullscreen loading="lazy">
+        </iframe>
+      </section>
+    </div>
+
+
+    <footer class="text-center py-4 text-muted">&copy; 2025 Lucas M. Cunha — Todos os direitos reservados.</footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+
+      function playAudio(src) {
+        const player = document.getElementById('audioPlayer');
+        const source = player.querySelector('source');
+        source.src = src;
+        player.load();
+        player.play();
+      }
+
+      function openModal(modelPath) {
+        const viewer = document.getElementById('modalModelViewer');
+        viewer.src = modelPath;
+        const modal = new bootstrap.Modal(document.getElementById('glbModal'));
+        modal.show();
+      }
+    </script>
+  </body>
+
+  </html>
