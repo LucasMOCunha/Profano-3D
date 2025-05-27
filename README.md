@@ -1,32 +1,83 @@
-🎨 Portfólio Interativo — Lucas M Cunha
-Bem-vindo ao meu portfólio!
+<img align="right" src="https://raw.githubusercontent.comLucasMOCunha/Profano-3D/main/gatinhu.png" alt="Neon character" width="200"/>
 
-Sou Lucas Matheus, artista visual e desenvolvedor em formação, explorando as conexões entre código, imagem e som. Este espaço reúne minhas experiências e criações mais recentes, onde a programação encontra a arte de maneira expressiva, investigativa e inovadora.
+# 👋 Olá, eu sou Lucas M. Cunha
 
-💡 Sobre o Portfólio
-Aqui você encontrará projetos experimentais que combinam:
+🌍 Artista Visual e Desenvolvedor em formação  
+💻 Graduando em **Análise e Desenvolvimento de Sistemas** – Senac PE (2º período)  
+🎯 Foco em **front-end** e criações interativas com **código, imagem e som**  
+🍳 Também sou **Cozinheiro Profissional** com 1430h pelo Senac (spoiler: mando bem na cozinha 😄)
 
-🎼 Composições algorítmicas (em fase inicial de estudo) com Sonic Pi e JavaScript
+---
 
-🎧 Explorações audiovisuais interativas com frameworks como p5.js, e outras ainda em teste.
+## 🚀 Sobre mim
 
-🌀 Artes Visuais em 3D usando ferramentas como Blender, IA, com foco em modelagem, texturização e narrativa visual
+Sou um criador por natureza. Misturo arte e tecnologia para explorar experiências que fogem do óbvio.  
+Minha vivência periférica e dissidente alimenta meu olhar e meu código — **arte como ferramenta de expressão, ruptura e conexão**.
 
-🎛️ Estudos de live coding e visualizações generativas
+Crio experiências visuais e sonoras, exploro algoritmos como linguagem estética e acredito que a ficção científica diz muito sobre o presente.
 
-Este portfólio é uma coleção viva do meu processo criativo e de aprendizado, onde cada experimento é também um passo na construção de uma linguagem própria.
+> “Produzo arte quando posso subverter.”
 
-🧰 Tecnologias e Ferramentas
-Linguagens: JavaScript, Python, Ruby (Sonic Pi)
+---
 
-Bibliotecas & Frameworks: p5.js
+## 🛠️ Habilidades em prática
 
-Softwares: Blender, Figma, GIMP, Audacity.
+**Linguagens e tecnologias**
+- JavaScript | HTML | CSS | Python | Ruby | SQL (MySQL, MSSQL)
 
-Outros: HTML/CSS, Git, Sonic Pi, OBS Studio
+**Ferramentas e plataformas**
+- Git & GitHub | Figma | Miro | Docker | Bootstrap  
+- Sonic Pi (sim! faço live coding de som) 🎶
 
-🎯 Objetivos
-Aprofundar o domínio técnico em composição algorítmica e arte generativa;
-Desenvolver modelos 3D autorais que combinem estética e interação;
-Criar pontes entre arte, som e programação com foco na acessibilidade e na expressividade;
-Construir experiências digitais que sejam imersivas, sensíveis e abertas ao público.
+---
+
+## 🧪 Explorando...
+
+✨ **Algorítmica sonora e visual**  
+🎛️ **Live coding** com Sonic Pi  
+🌀 **Ilusões de óptica interativas** com p5.js  
+🎨 Ilustração & animação  
+📦 Modelagem 3D (iniciando!)
+
+---
+
+## 📚 Interesses
+
+🧠 Arte generativa, computação criativa  
+🚀 Ficção científica (sou fã dos clássicos cyberpunk)  
+🎮 FPS e RPG de ação  
+📖 Livros favoritos (ou quase lidos 😂):
+- *Stranger in a Strange Land*  
+- *Neuromancer*  
+- *Count Zero*  
+- *Mona Lisa Overdrive*
+
+---
+
+## 🤝 Conecte-se comigo
+
+📫 **Email:** lumaoldc5@gmail.com  
+🔗 **LinkedIn:** [lucas-m-cunha](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)  
+
+---
+
+## 🧬 Personagens do meu universo
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LucasMOCunha/main/Jynx.png" alt="Jynx character" width="200"/>
+<br/>
+<strong>Jynx</strong> — minha guardiã glitch, ela aparece onde o bug vira arte
+
+---
+
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/gatinhu.png" alt="Neon character" width="200"/>
+<br/>
+<strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
+
+</div>
+
+---
+
+> _Código, arte e cozinha: os três temperos que fazem meu mundo girar._
+
