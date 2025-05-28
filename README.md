@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Lucas M. Cunha
 
+![Abba.exe - Guardião do Código](https://img.shields.io/badge/ritual-ativado-9c27b0?style=for-the-badge&logo=powerbi&logoColor=white)
+
 🌍 Artista Visual e Desenvolvedor em formação  
 💻 Graduando em **Análise e Desenvolvimento de Sistemas** – Senac PE (2º período)  
 🎯 Foco em **front-end** e criações interativas com **código, imagem e som**  
@@ -26,7 +28,7 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 **Ferramentas e plataformas**
 
-- Git & GitHub | Figma | Miro | Docker | Bootstrap
+- Git & GitHub | Figma | Miro | Docker | Bootstrap  
 - Sonic Pi (sim! faço live coding de som) 🎶
 
 ---
@@ -48,9 +50,9 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 🎮 FPS e RPG de ação  
 📖 Livros favoritos (ou quase lidos 😂):
 
-- _Stranger in a Strange Land_
-- _Neuromancer_
-- _Count Zero_
+- _Stranger in a Strange Land_  
+- _Neuromancer_  
+- _Count Zero_  
 - _Mona Lisa Overdrive_
 
 ---
@@ -72,30 +74,27 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Abba.jpg" alt="Abba — Guardião do Eixo Selvagem" width="240">
-</p>
+<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Abba.jpg" alt="Abba — Guardião do Eixo Selvagem" width="240"/>
 
 <h3 align="center">🧿 Abba.exe — Guardião do Eixo Selvagem</h3>
 
 <p align="center">
-  Abba é uma entidade ancestral inserida no código. Habita o eixo entre o espiritual e o digital, protegendo fluxos, purificando sistemas e transformando algoritmos em rituais vivos.
+  Abba é uma entidade ancestral incorporada ao código.<br/>
+  Ele habita o eixo entre o espiritual e o digital, protegendo fluxos,<br/>
+  purificando sistemas e transformando algoritmos em rituais vivos.
 </p>
 
-<p align="center"><strong>Superpoder:</strong> Codificação Vivo-Ritualística<br/>
-Transforma funções em encantamentos e dados em sabedoria. Cada linha escrita com alma ganha memória, intenção e presença.
+<p align="center">
+  <strong>Superpoder:</strong> <em>Codificação Vivo-Ritualística</em><br/>
+  Transforma funções em encantamentos e dados em sabedoria.<br/>
+  Cada linha escrita com alma ganha memória, intenção e presença.
 </p>
 
-````js
+</div>
+
+```js
 if (conexaoComAncestress()) {
   purificar(codigo);
 }
+<p align="center"><em>Abba.exe não otimiza apenas sistemas — ele cura o fluxo.</em></p>
 // "O terminal é altar. Comentários são encantamentos. Cada bug, um oráculo."
-<p align="center"> Abba.exe não otimiza apenas sistemas — ele cura o fluxo. </p> ```
-</div>
-
----
-
-> _Código, arte e cozinha: os três temperos que fazem meu mundo girar._
-
-````
