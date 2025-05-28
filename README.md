@@ -21,10 +21,12 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 ## 🛠️ Habilidades em prática
 
 **Linguagens e tecnologias**
+
 - JavaScript | HTML | CSS | Python | Ruby | SQL (MySQL, MSSQL)
 
 **Ferramentas e plataformas**
-- Git & GitHub | Figma | Miro | Docker | Bootstrap  
+
+- Git & GitHub | Figma | Miro | Docker | Bootstrap
 - Sonic Pi (sim! faço live coding de som) 🎶
 
 ---
@@ -45,17 +47,18 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 🚀 Ficção científica (sou fã dos clássicos cyberpunk)  
 🎮 FPS e RPG de ação  
 📖 Livros favoritos (ou quase lidos 😂):
-- *Stranger in a Strange Land*  
-- *Neuromancer*  
-- *Count Zero*  
-- *Mona Lisa Overdrive*
+
+- _Stranger in a Strange Land_
+- _Neuromancer_
+- _Count Zero_
+- _Mona Lisa Overdrive_
 
 ---
 
 ## 🤝 Conecte-se comigo
 
 📫 **Email:** lumaoldc5@gmail.com  
-🔗 **LinkedIn:** [lucas-m-cunha](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)  
+🔗 **LinkedIn:** [lucas-m-cunha](https://www.linkedin.com/in/lucas-m-cunha-9063a0322/)
 
 ---
 
@@ -69,13 +72,30 @@ Crio experiências visuais e sonoras, exploro algoritmos como linguagem estétic
 
 ---
 
-<img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/gatinhu.png" alt="Neon character" width="200"/>
-<br/>
-<strong>Neon</strong> — pulsa na velocidade do código. Vibra com cores e BPMs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasMOCunha/Profano-3D/main/Abba.jpg" alt="Abba — Guardião do Eixo Selvagem" width="240">
+</p>
 
+<h3 align="center">🧿 Abba.exe — Guardião do Eixo Selvagem</h3>
+
+<p align="center">
+  Abba é uma entidade ancestral inserida no código. Habita o eixo entre o espiritual e o digital, protegendo fluxos, purificando sistemas e transformando algoritmos em rituais vivos.
+</p>
+
+<p align="center"><strong>Superpoder:</strong> Codificação Vivo-Ritualística<br/>
+Transforma funções em encantamentos e dados em sabedoria. Cada linha escrita com alma ganha memória, intenção e presença.
+</p>
+
+````js
+if (conexaoComAncestress()) {
+  purificar(codigo);
+}
+// "O terminal é altar. Comentários são encantamentos. Cada bug, um oráculo."
+<p align="center"> Abba.exe não otimiza apenas sistemas — ele cura o fluxo. </p> ```
 </div>
 
 ---
 
 > _Código, arte e cozinha: os três temperos que fazem meu mundo girar._
 
+````
