@@ -159,50 +159,52 @@
       <span class="badge badge-stack">Blender</span>
     </section>
 
-<!-- Troque apenas esse trecho do seu código -->
+    <!-- Troque apenas esse trecho do seu código -->
 
-<section id="modelos" class="mb-5" data-aos="zoom-in">
-  <h2 class="section-title">Criações Visuais</h2>
-  <div class="row g-4">
-    <div class="col-md-6">
-      <button class="btn btn-outline-info w-100" onclick="openModal('assets/gekmen-3d.glb')">Gekmen</button>
-    </div>
-    <div class="col-md-6">
-      <button class="btn btn-outline-info w-100" onclick="openModal('assets/dualidade.glb')">Dualidade</button>
-    </div>
-    <div class="col-md-6">
-      <button class="btn btn-outline-info w-100" onclick="openModal('assets/jynx-punk.glb')">Jynx</button>
-    </div>
-    <div class="col-md-6">
-      <button class="btn btn-outline-info w-100" onclick="openModal('assets/Neon-X.glb')">Neon-X (PET)</button>
-    </div>
-    <div class="col-md-6">
-      <button class="btn btn-outline-info w-100" onclick="openModal('assets/nave-bb.glb')">Nave Principal</button>
-    </div>
-  </div>
-</section>
+    <section id="modelos" class="mb-5" data-aos="zoom-in">
+      <h2 class="section-title">Criações Visuais</h2>
+      <div class="col-md-6">
+        <button class="btn btn-outline-info w-100" onclick="openModal('gekmen-3d.glb')">Gekmen</button>
+      </div>
 
-<section id="sons" class="mb-5" data-aos="fade-right">
-  <h2 class="section-title">Criações Sonoras</h2>
-  <button class="btn btn-outline-info mb-2" onclick="playAudio('assets/neiff_darkwave.wav')">▶ Faixa 1</button>
-  <button class="btn btn-outline-info mb-2" onclick="playAudio('assets/faixa2.wav')">▶ Faixa 2</button>
-  <audio id="audioPlayer" controls class="w-100 mt-3">
-    <source src="" type="audio/wav">
-    Seu navegador não suporta o player de áudio.
-  </audio>
-</section>
+      <!-- AGORA sim começa outra linha de modelos -->
+      <div class="row g-4">
+        <div class="col-md-6">
+          <button class="btn btn-outline-info w-100" onclick="openModal('dualidade.glb')">Dualidade</button>
+        </div>
+        <div class="col-md-6">
+          <button class="btn btn-outline-info w-100" onclick="openModal('jynx-punk.glb')">Jynx</button>
+        </div>
+        <div class="col-md-6">
+          <button class="btn btn-outline-info w-100" onclick="openModal('Neon-X.glb')">Neon-X (PET)</button>
+        </div>
+        <div class="col-md-6">
+          <button class="btn btn-outline-info w-100" onclick="openModal('nave-bb.glb')">Nave Principal</button>
+        </div>
+      </div>
+    </section>
 
-<!-- Atualize também o model-viewer do header -->
-<model-viewer src="assets/cometin-pet.glb" alt="Mascote 3D" auto-rotate camera-controls ar disable-zoom
-  style="width: 140px; height: 140px; background: transparent;">
-</model-viewer>
+    <section id="sons" class="mb-5" data-aos="fade-right">
+      <h2 class="section-title">Criações Sonoras</h2>
+      <button class="btn btn-outline-info mb-2" onclick="playAudio('assets/neiff_darkwave.wav')">▶ Faixa 1</button>
+      <button class="btn btn-outline-info mb-2" onclick="playAudio('assets/faixa2.wav')">▶ Faixa 2</button>
+      <audio id="audioPlayer" controls class="w-100 mt-3">
+        <source src="" type="audio/wav">
+        Seu navegador não suporta o player de áudio.
+      </audio>
+    </section>
+
+    <!-- Atualize também o model-viewer do header -->
+    <model-viewer src="assets/cometin-pet.glb" alt="Mascote 3D" auto-rotate camera-controls ar disable-zoom
+      style="width: 140px; height: 140px; background: transparent;">
+    </model-viewer>
 
 
     <section class="mb-5" data-aos="fade-left">
       <h2 class="section-title">Projetos de Desenvolvimento</h2>
       <ul>
-        <li><a href="https://www.figma.com/proto/NgpUkeHwZd8hFcSp9ZHHfj/Prot%C3%B3tipo-%7C-VivaVida"
-            target="_blank">💠 Viva Vida - Combate à solidão</a></li>
+        <li><a href="https://www.figma.com/proto/NgpUkeHwZd8hFcSp9ZHHfj/Prot%C3%B3tipo-%7C-VivaVida" target="_blank">💠
+            Viva Vida - Combate à solidão</a></li>
         <li><a href="https://startechdev.vercel.app/" target="_blank">🚀 Star Tech - Gamificação</a></li>
       </ul>
     </section>
