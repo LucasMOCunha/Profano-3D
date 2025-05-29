@@ -1,0 +1,21 @@
+{
+  "name": "profano-3d",
+  "version": "1.0.0",
+  "description": "![Abba.exe - Guardião do Código](https://img.shields.io/badge/ritual-ativado-9c27b0?style=for-the-badge&logo=powerbi&logoColor=white)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node sync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMOCunha/Profano-3D.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMOCunha/Profano-3D/issues"
+  },
+  "homepage": "https://github.com/LucasMOCunha/Profano-3D#readme"
+}
